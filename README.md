@@ -5,4 +5,4 @@ A simple Java to DDos some website
 
 [!] Don't do anything too bad with it.
 
-Anyways thanks to Shadow Tak / Ethical
+Anyways thanks to Shadow Tak / Ryanz
